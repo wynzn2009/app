@@ -1,4 +1,4 @@
-package pris.code;
+package pris.tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

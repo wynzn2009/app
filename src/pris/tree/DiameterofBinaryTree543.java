@@ -1,4 +1,4 @@
-package pris.code;
+package pris.tree;
 
 import pris.model.TreeNode;
 
