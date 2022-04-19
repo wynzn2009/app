@@ -1,3 +1,5 @@
+package pris.tree;
+
 import pris.model.TreeNode;
 
 public class InvertBinaryTree226 {
