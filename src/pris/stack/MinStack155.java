@@ -1,4 +1,4 @@
-package pris.list;
+package pris.stack;
 
 import java.util.LinkedList;
 
